@@ -67,6 +67,7 @@ This is a screenshot comparing
 * Adding advanced conditions
 
 Below are few screenshots I was able to get from the project:
+
 ![First 4 random walk iterations](Images/Example%20of%20random%20walk%20iterations.PNG)
 
 ![Possible movements by each position](Images/Number%20of%20possible%20movements%20by%20position.png)
