@@ -15,7 +15,7 @@ Owner: Anis Fakhfakh
 ---
 
 # [Notebook: Fraud detection of transactions](https://github.com/anisfakhfakh/Fraud-detection-of-transactions) 
-* A hackathon hosted by Zindi
+* A starter notebook for a hackathon hosted by Zindi
 * Using Data analysis and prediction to predict whether a transaction is fraudent or not 
 
 ---
