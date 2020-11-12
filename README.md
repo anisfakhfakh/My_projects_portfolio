@@ -54,7 +54,7 @@ Code was not included due to privacy policy by the internship
 
 I was able to get the model to predict the sentiments of tweets after traing the data, with an accuracy of 80% using Logistic Regression and Support Vector Machine.
 This is a screenshot comparing 
-![](https://github.com/anisfakhfakh/My_projects_portfolio/blob/main/Images/Twitter%20Sentiment%20analysis%20models%20accuracy.png)
+![](/Images/Twitter%20Sentiment%20analysis%20models%20accuracy.png)
 
 ## [Full Report](https://drive.google.com/file/d/1mQyEo7B1EIN7iaZXUDSzKWji6MVWG37X/view)
 
@@ -67,11 +67,11 @@ This is a screenshot comparing
 * Adding advanced conditions
 
 Below are few screenshots I was able to get from the project:
-![First 4 random walk iterations](https://github.com/anisfakhfakh/Chess_game-random_walk/blob/main/plots/Example%20of%20random%20walk%20iterations.PNG)
+![First 4 random walk iterations](/Images/Example%20of%20random%20walk%20iterations.PNG)
 
-![Possible movements by each position](https://github.com/anisfakhfakh/Chess_game-random_walk/blob/main/plots/Number%20of%20possible%20movements%20by%20position.png)
+![Possible movements by each position](/Images/Number%20of%20possible%20movements%20by%20position.png)
 
-![Evolution of successful scenarios according to Max. number of iterations](https://github.com/anisfakhfakh/Chess_game-random_walk/blob/main/plots/number%20of%20scenarions%20for%20every%20possible%20number%20of%20mouvements.PNG)
+![Evolution of successful scenarios according to Max. number of iterations](/Images/number%20of%20scenarions%20for%20every%20possible%20number%20of%20mouvements.PNG)
 
 ## [Report (French)](https://drive.google.com/file/d/1voTDEaUm83QKuhAL-_HxwcHVRhNvLRT5/view)
 
