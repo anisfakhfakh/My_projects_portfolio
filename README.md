@@ -1,6 +1,6 @@
-# My_projects_portfolio
+# My projects portfolio
 Owner: Anis Fakhfakh
-
+This repository contains my projects
 
 ## Project: Editing Facial emotion using GANs(Active)
 * Build a system that can change facial expression (smiling face)
