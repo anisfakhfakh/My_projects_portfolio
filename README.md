@@ -31,7 +31,7 @@ Owner: Anis Fakhfakh
 * Inspired by the [kaggle competition](https://www.kaggle.com/c/generative-dog-images/overview) 
 
 Through 6-7 hours of train on kaggle, the model was able to produce these dogs images. The longer the train, the better and more realistic the images seem.  
-![](/Images/Generated%20Dogs.png)
+![](Images/Generated%20Dogs.png)
 
 ---
 
@@ -54,7 +54,7 @@ Code was not included due to privacy policy by the internship
 
 I was able to get the model to predict the sentiments of tweets after traing the data, with an accuracy of 80% using Logistic Regression and Support Vector Machine.
 This is a screenshot comparing 
-![](/Images/Twitter%20Sentiment%20analysis%20models%20accuracy.png)
+![](Images/Twitter%20Sentiment%20analysis%20models%20accuracy.png)
 
 ## [Full Report](https://drive.google.com/file/d/1mQyEo7B1EIN7iaZXUDSzKWji6MVWG37X/view)
 
@@ -67,11 +67,11 @@ This is a screenshot comparing
 * Adding advanced conditions
 
 Below are few screenshots I was able to get from the project:
-![First 4 random walk iterations](/Images/Example%20of%20random%20walk%20iterations.PNG)
+![First 4 random walk iterations](Images/Example%20of%20random%20walk%20iterations.PNG)
 
-![Possible movements by each position](/Images/Number%20of%20possible%20movements%20by%20position.png)
+![Possible movements by each position](Images/Number%20of%20possible%20movements%20by%20position.png)
 
-![Evolution of successful scenarios according to Max. number of iterations](/Images/number%20of%20scenarions%20for%20every%20possible%20number%20of%20mouvements.PNG)
+![Evolution of successful scenarios according to Max. number of iterations](Images/number%20of%20scenarions%20for%20every%20possible%20number%20of%20mouvements.PNG)
 
 ## [Report (French)](https://drive.google.com/file/d/1voTDEaUm83QKuhAL-_HxwcHVRhNvLRT5/view)
 
