@@ -31,7 +31,7 @@ Owner: Anis Fakhfakh
 * Inspired by the [kaggle competition](https://www.kaggle.com/c/generative-dog-images/overview) 
 
 Through 6-7 hours of train on kaggle, the model was able to produce these dogs images. The longer the train, the better and more realistic the images seem.  
-![](https://github.com/anisfakhfakh/My_projects_portfolio/blob/main/Images/Generated%20Dogs.png)
+![](/Images/Generated%20Dogs.png)
 
 ---
 
@@ -40,7 +40,7 @@ Through 6-7 hours of train on kaggle, the model was able to produce these dogs i
 * Using Guided Latent Dirichlet Allocation to assign topics
 
 I was able to get the output results of a few articles for 4 topic clusters by getting the percentage of significance 
-![](https://github.com/anisfakhfakh/My_projects_portfolio/blob/main/Images/Topic%20modelling%20results.PNG)
+![](Images/Topic%20modelling%20results.PNG)
 
 ## [Full Report](https://drive.google.com/file/d/1dWGjvWhX1XCUFrQtGr5B2-eW1v2l8vlq/view?usp=sharing)
 Code was not included due to privacy policy by the internship
