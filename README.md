@@ -7,7 +7,7 @@ This repository contains my projects
 * Using StyleGANs
 
 ---
-## Project: Articles summarizer(Active)
+## [Project: Articles summarizer](https://github.com/anisfakhfakh/Article-summarization)(Active)
 * Build a text summarizer system
 * Using both supervised and unsupervised learning techniques applied in NLP
 * Use One-text summarization(each text in the corpus has its own summarization)
