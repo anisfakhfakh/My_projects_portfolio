@@ -42,7 +42,7 @@ Through 6-7 hours of train on kaggle, the model was able to produce these dogs i
 I was able to get the output results of a few articles for 4 topic clusters by getting the percentage of significance 
 ![](Images/Topic%20modelling%20results.PNG)
 
-## [Full Report](https://drive.google.com/file/d/1dWGjvWhX1XCUFrQtGr5B2-eW1v2l8vlq/view?usp=sharing)
+### [Full Report](https://drive.google.com/file/d/1dWGjvWhX1XCUFrQtGr5B2-eW1v2l8vlq/view?usp=sharing)
 Code was not included due to privacy policy by the internship
 
 ---
