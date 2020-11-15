@@ -62,7 +62,7 @@ This is a screenshot comparing
 ## [Project: Chess game random walk](https://github.com/anisfakhfakh/Chess_game-random_walk) 
 * A Random walk theory real life example
 * Implement a real life application of random walk using Chess to illustrate it
-* Simulating the random walk of a Knight piece according to the maximaum number of iterations
+* Simulating the random walk of a Knight piece according to the maximum number of iterations
 * Observing the evolution of successful walks
 * Adding advanced conditions
 
