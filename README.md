@@ -2,7 +2,25 @@
 Owner: Anis Fakhfakh
 This repository contains my projects
 
-## Project: Editing Facial emotion using GANs(Active)
+## Project: Automatic image annotation(Active)
+* A set of images with their annotations
+* Building a model capable of predicting annotations of new images
+
+---
+
+https://github.com/anisfakhfakh/Real-estate-announcements-grouping
+
+## [Notebook: Real estate announcements grouping](https://github.com/anisfakhfakh/Real-estate-announcements-grouping)(Active)
+* Group Real estate announcements by their unicity (some entries belong to the same apartment or building etc.)
+
+---
+## Project: Data augmenetation effect on Pneumonia detection(Active)
+* Build a Pneumonia detection neural pipeline using CNN 
+* Check the data augmentation effect on the results
+
+---
+
+## Project: Editing Facial emotion using GANs
 * Build a system that can change facial expression (smiling face)
 * Using StyleGANs
 
@@ -17,12 +35,6 @@ This repository contains my projects
 ## [Notebook: Fraud detection of transactions](https://github.com/anisfakhfakh/Fraud-detection-of-transactions) 
 * A starter notebook for a hackathon hosted by Zindi
 * Using Data analysis and prediction to predict whether a transaction is fraudent or not 
-
----
-
-## Project: Real-time object detection using different approaches(Active)
-* Build Object detection (+Instance sengmentation) system 
-* Using popular methods such as YOLO, R-CNNs, etc.
 
 ---
 
