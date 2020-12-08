@@ -10,7 +10,7 @@ This repository contains my projects
 
 https://github.com/anisfakhfakh/Real-estate-announcements-grouping
 
-## [Notebook: Real estate announcements grouping](https://github.com/anisfakhfakh/Real-estate-announcements-grouping)(Active)
+## [Notebook: Real estate announcements grouping](https://github.com/anisfakhfakh/Real-estate-announcements-grouping)
 * Group Real estate announcements by their unicity (some entries belong to the same apartment or building etc.)
 
 ---
