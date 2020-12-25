@@ -14,7 +14,7 @@ https://github.com/anisfakhfakh/Real-estate-announcements-grouping
 * Group Real estate announcements by their unicity (some entries belong to the same apartment or building etc.)
 
 ---
-## Project: Data augmenetation effect on Pneumonia detection(Active)
+## [Project: Data augmenetation effect on Pneumonia detection(Active)](https://github.com/anisfakhfakh/Data-augmentation-for-X-Ray-pneumonia-detection)
 * Build a Pneumonia detection neural pipeline using CNN 
 * Check the data augmentation effect on the results
 
