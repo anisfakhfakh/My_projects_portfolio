@@ -2,7 +2,12 @@
 Owner: Anis Fakhfakh
 This repository contains my projects
 
-## Project: Automatic image annotation(Active)
+## Project (Graduation Internship): Adversarial learning of variational models for inverse problems(Active)
+* Reconstruction of dynamical systems
+* Using adversarial learning techniques for inverse problems
+* http://www.madics.fr/event/offre152/?instance_id=1577
+
+## Project: Automatic image annotation
 * A set of images with their annotations
 * Building a model capable of predicting annotations of new images
 
@@ -14,7 +19,7 @@ https://github.com/anisfakhfakh/Real-estate-announcements-grouping
 * Group Real estate announcements by their unicity (some entries belong to the same apartment or building etc.)
 
 ---
-## [Project: Data augmenetation effect on Pneumonia detection(Active)](https://github.com/anisfakhfakh/Data-augmentation-for-X-Ray-pneumonia-detection)
+## [Project: Data augmenetation effect on Pneumonia detection](https://github.com/anisfakhfakh/Data-augmentation-for-X-Ray-pneumonia-detection)
 * Build a Pneumonia detection neural pipeline using CNN 
 * Check the data augmentation effect on the results
 
