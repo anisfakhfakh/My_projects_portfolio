@@ -2,17 +2,44 @@
 Owner: Anis Fakhfakh
 This repository contains my projects
 
-## Project (Graduation Internship): Adversarial learning of variational models for inverse problems(Active)
+## Project (Graduation Internship): Adversarial learning of variational models for inverse problems
 * Reconstruction of dynamical systems
 * Using adversarial learning techniques for inverse problems
-* http://www.madics.fr/event/offre152/?instance_id=1577
+* Adding stochastic parameters to models and server
+* Compare results
 
+### [Internship description](http://www.madics.fr/event/offre152/?instance_id=1577)
+### [Full Report](https://drive.google.com/file/d/1Tw8wsJfctHU92ylgwVhKtwjNJ1Q7JWCA/view?usp=sharing)
+
+---
+
+## Project (Freelance): Tabular data classification with RBM classification
+* Use a from-scratch Pytorch implementation of Restricted Boltzman Machines
+* Add hyperparameters such as Contrastive/non contrastive RBM, Gibbs sampling coefficient, etc.
+* Add accuraacy, precision, recall, f1-score metrics for each class
+### [UPWORK job description and rating](https://www.upwork.com/jobs/~01733059a0ad2270cd)
+
+---
+## Project (Freelance): FedSplit on transaction tabular data
+* Build a CNN model to precict whether a transaction is fraudulent or not
+* Divide the model in client side and server side: Split learning
+* Create 5 users: 5 clients and 5 servers
+* For each model, learning is independantly done and aggregation to main model is used after each epoch  
+
+---
 ## Project: Automatic image annotation
 * A set of images with their annotations
 * Building a model capable of predicting annotations of new images
 
 ---
+## [Project: CNN FedAVG on Fashion MNIST dataset](https://github.com/anisfakhfakh/CNN_FedAVG)
+* Build a CNN model to cmassify MNIST fashion dataset samples
+* Use federated averaraging technique for model aggregation during learning
+* Compare results to standard learning
 
+### [Full Report](https://drive.google.com/file/d/1EE_6Ln2-f8OdCd4N2Xqubsx-cBgOQ7Iq/view?usp=sharing)
+
+---
 
 ## [Notebook: Real estate announcements grouping](https://github.com/anisfakhfakh/Real-estate-announcements-grouping)
 * Group Real estate announcements by their unicity (some entries belong to the same apartment or building etc.)
@@ -29,7 +56,7 @@ This repository contains my projects
 * Using StyleGANs
 
 ---
-## [Project: Articles summarizer](https://github.com/anisfakhfakh/Article-summarization)(Active)
+## [Project: Articles summarizer](https://github.com/anisfakhfakh/Article-summarization)
 * Build a text summarizer system
 * Using both supervised and unsupervised learning techniques applied in NLP
 * Use One-text summarization(each text in the corpus has its own summarization)
@@ -91,5 +118,3 @@ Below are few screenshots I was able to get from the project:
 ![Evolution of successful scenarios according to Max. number of iterations](Images/number%20of%20scenarions%20for%20every%20possible%20number%20of%20mouvements.PNG)
 
 ### [Report (French)](https://drive.google.com/file/d/1voTDEaUm83QKuhAL-_HxwcHVRhNvLRT5/view)
-
-
