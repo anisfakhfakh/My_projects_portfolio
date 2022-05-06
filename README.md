@@ -12,7 +12,19 @@ This repository contains my projects
 ### [Full Report](https://drive.google.com/file/d/1Tw8wsJfctHU92ylgwVhKtwjNJ1Q7JWCA/view?usp=sharing)
 
 ---
+## Project (Freelance): Decision analysis regarding insurance policy
+* Payoff analysis
+* Decision tree modelling
+### [UPWORK job description and rating](https://www.upwork.com/jobs/~01e1437bb5b3e75c91)
 
+---
+## Project (Freelance): Federeated Learning on EEG/ECG Classification
+* Use LSTM model as base model
+* Use flower framework to munch different local clients on local host and a server
+* Tune parameters (Number of clients + Number of steps per lcoal clients epochs)
+### [UPWORK job description and rating](https://www.upwork.com/jobs/~01342e251922109b01)
+
+---
 ## Project (Freelance): Tabular data classification with RBM classification
 * Use a from-scratch Pytorch implementation of Restricted Boltzman Machines
 * Add hyperparameters such as Contrastive/non contrastive RBM, Gibbs sampling coefficient, etc.
