@@ -12,7 +12,7 @@ This repository contains my projects
 ### [Full Report](https://drive.google.com/file/d/1Tw8wsJfctHU92ylgwVhKtwjNJ1Q7JWCA/view?usp=sharing)
 
 ---
-## [Project: Autoencoding Variational Inference For Topic Models Implementation (PyTorch)] (https://github.com/anisfakhfakh/ProdLDA-pytorch)
+## [Project: Autoencoding Variational Inference For Topic Models Implementation with PyTorch](https://github.com/anisfakhfakh/ProdLDA-pytorch)
 * An unofficial implementation of the method described in the [Paper](https://arxiv.org/abs/1703.01488)
 * Use the data: 20news dataset and implement the descibed model 
 * Calculate Perplexity metric for testing
